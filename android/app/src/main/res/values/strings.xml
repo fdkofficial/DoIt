@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">do-it-app</string>
     <string name="title_activity_main">do-it-app</string>
-    <string name="package_name">do.it.app</string>
-    <string name="custom_url_scheme">do.it.app</string>
+    <string name="package_name">doo.it.app</string>
+    <string name="custom_url_scheme">doo.it.app</string>
 </resources>
