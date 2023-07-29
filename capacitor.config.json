@@ -1,0 +1,8 @@
+{
+  "appId": "do.it.app",
+  "appName": "do-it-app",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

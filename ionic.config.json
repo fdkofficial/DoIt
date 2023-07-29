@@ -1,0 +1,7 @@
+{
+  "name": "do-it-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
