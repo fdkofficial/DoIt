@@ -142,7 +142,7 @@ body {
 }
 
 .wrapper {
-  width: 440px;
+  width: 375px;
   padding: 30px 30px 38px;
   background: #fff;
   border-radius: 10px;
