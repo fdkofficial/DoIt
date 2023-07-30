@@ -1,15 +1,6 @@
 <template>
   <!-- Coding By CodingNepal - youtube.com/codingnepal -->
-
-  <head>
-    <meta charset="utf-8">
-    <title>Alarm Clock</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-
-  <body>
-    <div class="wrapper">
+    <div class="wrapper" >
       <!-- <img src="./files/clock.svg" alt="clock"> -->
       <h1>00:00:00 PM</h1>
       <div class="content">
@@ -32,7 +23,6 @@
       <button>Set Alarm</button>
     </div>
     <!-- <script src="index.js"></script> -->
-  </body>
 </template>
 
 <script setup>
